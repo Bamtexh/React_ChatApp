@@ -1,9 +1,9 @@
 import './App.css'
-
+import {AuthPge} from "./components/AuthPge";
 function App() {
   return (
     <div>
-      Hello React!
+     <AuthPge />
     </div>
   )
 }
